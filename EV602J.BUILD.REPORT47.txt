@@ -1,0 +1,44 @@
+ *******************************************************************************
+ *******************************************************************************
+ **                                                                           **
+ **                                                                           **
+ **             SOFTWARE CONFIGURATION AND LIBRARY MANAGER (SCLM)             **
+ **                                                                           **
+ **                         B U I L D    R E P O R T                          **
+ **                                                                           **
+ **                         2018/04/11   12:17:27                             **
+ **                                                                           **
+ **                          PROJECT:      FF52                               **
+ **                          GROUP:        DEVLIB1                            **
+ **                          TYPE:         ARCHDEF                            **
+ **                          MEMBER:       FF52G10                            **
+ **                          ALTERNATE:    FF52                               **
+ **                          SCOPE:        NORMAL                             **
+ **                          MODE:         CONDITIONAL                        **
+ **                                                                           **
+ **                                                                           **
+ *******************************************************************************
+ *******************************************************************************
+1    ******* B U I L D   O U T P U T S   G E N E R A T E D *******  Page 1
+
+ MEMBER     TYPE       VERSION      KEYWORD
+ ------     ----       -------      -------
+          ******* NO MODULES GENERATED *******
+1          ******* B U I L D   M A P S   G E N E R A T E D *******  Page 2
+
+                                   (REASON FOR REBUILD)
+ MEMBER     TYPE       VERSION      MEMBER     TYPE
+ ------     ----       -------      -------    ----
+ FF52G10    ARCHDEF          1      ********************
+ FF52G10    JCLM             1      *** NEW BUILD MAP GENERATED
+1    ******* B U I L D   O U T P U T S     D E L E T E D   *******  Page 3
+
+ MEMBER     TYPE       VERSION      KEYWORD
+ ------     ----       -------      -------
+          ******* NO MODULES DELETED *******
+1          ******* B U I L D   M A P S     D E L E T E D   *******  Page 4
+
+                                   (REASON FOR DELETE)
+ MEMBER     TYPE       VERSION      MEMBER     TYPE
+ ------     ----       -------      -------    ----
+          ***** NO BUILD MAPS DELETED *****
